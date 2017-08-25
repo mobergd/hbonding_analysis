@@ -1,0 +1,3 @@
+512       ! real system water molecules
+25000     ! frames
+FILE          !  name of the file which has all indexes of water molecules 

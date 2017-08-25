@@ -1,0 +1,9 @@
+512           ! no of water molecules 
+3             ! no of atoms in each water 
+OW             ! type of Ow
+3.5             ! distance
+3.7
+30            ! angle
+35
+1             ! no of files   
+"POSITION_CMD" 25000 0
